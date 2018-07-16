@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/6fd02119a54ea25f3b3a6b7af038657250ebd7da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_f78aea3792a648269b520bbcfd18fe0221ce9845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/70a6aa9dd02a00284103f285b285082466855245/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_b85f12123f85b20f0da8b8644a7fda67802f5947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/70149cd757b3585bdffb241ef7e873a0bedc9919/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_941ba1632d8d808a18e6f97c833844fe0dea72f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/19a9669b71b883a73629f9f396982d3ce7561376/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_7bf4ab6feb4ba963b8498692cb00a652634bcdb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e897bf9d5ff0bd5b860d2ea451211537a2ba35fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/cbd96719430a577d97baeb16b2ed5da0c85dedba/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_4504b8e0ca1e73104c533314bd982b3dfcf3e299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_c35a4a4681acc025c6dcb8eef3a783a0e14971b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/aa0c825879a363a070f8b357e269c6e5de8061da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_ca100a3f4b1f474d91994e3e179c9dde39aadbc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/cbd96719430a577d97baeb16b2ed5da0c85dedba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_9a16047651ef8a2ff0d5f8de975b38be5ca9f58b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/7c70c0d2c52296fef81c3cf2457d7e21b80dec33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_dec10b39fdfab50cde28490334ea351fa84a314e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/60419b7d4affac87a9a9718a85a9a295ae18b8ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_7c381c31e342980166d9c4052cb134a98e39e564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/9dcdf7554a63689bff0ee7b9b5e13768ccca5050/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_e3721596adc21788fe9bea7e88f7a1e300f80d84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/9885aed15de2e95ca73d46efdffa7c94e9ddc878/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_fb23a014de55480c697821a8ce69818da8a0f33b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/3121a1fa1de6e68c2cd1ee42121c8327ac99d9c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_d972b07c026bec7c38713c9899b316a09cb91968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_1ccf1b751088631de5081ebc345e167e7b44da5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/b52d1c200dd182eb14df37d293d8e2f3afb5491a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_682244da70e1f5da1e0f8d920548d88cda0579d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/9b5beb5292239879fe0b246a3c6223b5f024f663/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_f2885a546f1761e7fd5ecb62c11e1ea3771918d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_25d0f97b473d07cfb98bf8e681aa5e04c35de3c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_78761f7342ced8f53c7051871cb74f0903176b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/efd0e3ddac600bcc56cb0cd5ef1a3523381ce90e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_d94d65511bb85563135c1202094ac048bf4ab2b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/13c6bcabb08c34bb45f4b757ca2159d427e713b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_708e4d508f94b43ebc138d8d3e4dad8131e89a07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_83bce8863c751d5d555f5d5ecea1dc6642f1fdd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/48ddf8490985fef7a84245eb6867174ba4023619/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_51ec0b84076c5907f098cebc4e08ecdb6657b598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_e78395b21580967b840472fcd2206b415074b0e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_ef8da7076dd226bae98991935609c5593673f443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ec270c83b2a58f4fff3ec9f2551569a59b9b36ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/ae0a5c8628aa944ff68d3c79a5faa8096a218c2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_05133c0895906ab0a9184278489e36e879091799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_9a8c61e330be7640111d03c0968e6c3f89b501f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/6e6e87be3049d2c2a6b9c0e97f97f7e04ea1ec09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_34d68e5fcc5497aa8e25fae7c6582adfc22d042d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/65564e9a387b90c75c8045451e60d2cc1babd7f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/user/www/FirstApp/android/app/build/intermediates/pre-dexed/debug/classes_c444910c7e908f72bf5c8773b10acc2ddb1e4dbd.jar" />
+    </item>
+
+</items>
